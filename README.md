@@ -1,6 +1,8 @@
 # Weather-Trend-Forecasting
 # Weather Trend Forecasting Project
+## Open in Google Colab
 
+https://colab.research.google.com/github/Ashdsrvr/Weather-Trend-Forecasting/blob/main/Weather_Trend_Forecasting.ipynb
 ## Overview
 This project analyzes global weather data and forecasts future weather trends using Machine Learning and Time Series Forecasting techniques.
 
